@@ -61,5 +61,5 @@ jobs:
       # Trigger redeploy on dokploy => project webhooks settings
       - name: Trigger dokploy redeploy
         run: |
-          curl -X GET http://47.102.213.91:3000/api/deploy/mW4DshRiWe8Jl6OJ2SHlS
+          curl -X GET http://47.102.213.91:3000/api/deploy/5KRZ2A7FQSLQuefRdZoAt
       
